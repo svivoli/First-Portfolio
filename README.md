@@ -17,10 +17,10 @@ Page Specific Attributes:
 3. Contact submission page - name, email, message, submit button
 
 Other Attributes:
-Header with navigation bar
-Sticky footer
-Super cool background
-Colors, fonts, borders
+* Header with navigation bar
+* Sticky footer
+* Super cool background
+* Colors, fonts, borders
 
 ### My Experience
 
