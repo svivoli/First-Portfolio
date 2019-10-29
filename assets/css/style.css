@@ -75,6 +75,7 @@ h2 {
 .cover {
     width: 200px;
     height: 200px;
+    object-fit: cover;
 }
 
 p {
@@ -114,9 +115,7 @@ img {
 }
 
 .none {
-    width: 175px;
-    height: 126px;
-    object-fit: none;
+    object-fit: cover;
 }
 
 .content {
