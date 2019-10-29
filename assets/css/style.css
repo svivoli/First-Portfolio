@@ -131,13 +131,14 @@ p {
 }
 
 #form2 {
+    box-sizing: border-box;
     width: 100%;
     height: 200px;
     padding: 8px 15px 8px 15px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 16px;
     color: #777777;
-    border-color: #cccccc;
+    border-color: #dddddd;
     resize: none;
 }
 
