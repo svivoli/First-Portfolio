@@ -7,11 +7,6 @@ body {
     background-image: url(https://i.imgur.com/RLKaymZ.png);
 }
 
-.wrapper {
-    min-height: 100%;
-    margin-bottom: -20px;
-}
-
 header {
     position: fixed;
     top: 0;
@@ -22,10 +17,19 @@ header {
     border-bottom: solid 1.5px #cccccc;
 }
 
+.name {
+    float: left;
+    padding: 0 35px 0 35px;
+    margin-left: 150px;
+    background-color: #4aaaa5;
+    font-size: 13px;
+    color: white;
+}
+
 .topnav {
     overflow: hidden;
     height: 100%;
-    padding: 20px;
+    padding: 30px 20px 18px 20px;
     margin-right: 122px;
     background-color: white;
     color: #cccccc;
@@ -48,15 +52,6 @@ header {
 
 .topnav a:hover {
     color: #4aaaa5;
-}
-
-.name {
-    float: left;
-    padding: 0 35px 0 35px;
-    margin-left: 150px;
-    background-color: #4aaaa5;
-    font-size: 13px;
-    color: white;
 }
 
 h2 {
@@ -82,25 +77,8 @@ p {
     color: #777777;
 }
 
-.aboutbox {
-    margin: 100px 150px 60px 150px;
-    padding: 0 30px 0 30px;
-    background-color: #ffffff;
-    border: solid 1px #dddddd;
-    line-height: 150%;
-}
-
-.contactbox {
-    margin: 100px 150px 60px 150px;
-    padding: 0 30px 0px 30px;
-    background-color: #ffffff;
-    color: #777777;
-    border: solid 1px #dddddd;
-    line-height: 150%;
-}
-
-.portfoliobox {
-    margin: 100px 150px 60px 150px;
+.outerbox {
+    margin: 100px 150px 20px 150px;
     padding: 0 30px 0 30px;
     background-color: #ffffff;
     border: solid 1px #dddddd;
@@ -129,7 +107,6 @@ p {
     font-size: 16px;
     color: #777777;
     border: solid 1px #dddddd;
-    resize: none;
 }
 
 #form2 {
@@ -184,6 +161,11 @@ textarea {
 .table {
     padding: 10px 0px 10px 0px;
     overflow: auto;
+}
+
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -20px;
 }
 
 .footer,
