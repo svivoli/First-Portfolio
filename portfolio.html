@@ -5,79 +5,97 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.4/dist/css/uikit.min.css" />
+    <link
+        href="https://fonts.googleapis.com/css?family=Aldrich|Days+One|BenchNine|Denk+One|Barlow|Iceland|Rock+Salt|Timmana|Wallpoet&display=swap"
+        rel="stylesheet">
 
     <title>Sarah Vivoli's Portfolio</title>
 
 </head>
 
 <body>
-    
-    <header>
-        <div class="name">
-            <h1>Sarah Vivoli</h1>
+
+    <nav class="uk-navbar-container" uk-navbar="boundary-align: true; align: center;">
+        <div class="uk-navbar-left">
+            <ul class="uk-navbar-nav">
+                <li>
+                    <a id="name" class="uk-navbar-item uk-logo" href="index.html">Sarah Vivoli</a>
+                </li>
+            </ul>
         </div>
-
-        <div class="topnav">
-            <a href="contact.html">Contact</a>
-            <a href="portfolio.html">Portfolio</a>
-            <a class="active" href="index.html">About</a>
+        <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav">
+                <li>
+                    <a id="links" href="index.html">About</a>
+                </li>
+                <li>
+                <li class="uk-active"><a id="links" href="portfolio.html">Portfolio</a></li>
+                </li>
+                <li>
+                    <a id="links" href="contact.html">Contact</a>
+                </li>
+            </ul>
         </div>
+    </nav>
 
-    </header>
+    <div class="wrapper">
+        <div class="outerbox">
+            <h2 class="title">PORTFOLIO</h2>
 
-        <div class="wrapper">
-            <div class="outerbox">
-                <h2>Portfolio</h2>
-            
-                <div class="content">
-                    <table class="table" style="width:100%">
-                    <tr>
-                        <td>
-                            <div id="container">
-                                <img src="assets/images/Unbeatable_Hangman_Words.jpg" class="cover">
-                                <div id="caption">Hangman</div>
+            <div class="uk-grid-large uk-child-width-expand@s uk-text-center" uk-grid>
+                    <div>
+                        <div class="uk-cover-container">
+                            <div class="uk-inline" uk-light>
+                                <img id="project" src="assets/images/showmeshows.png" alt="ShowMeShows">
+                                <div class="uk-overlay uk-overlay-default uk-position-bottom">
+                                    <a id="capt1" href="https://jeretc79.github.io/project1/" target="_blank">
+                                        <p id="capt">SHOWMESHOWS</p>
+                                    </a>
+                                </div>
                             </div>
-                        </td>
-                        <td>
-                            <div class="group" id="container">
-                                <img src="assets/images/PaganOnline_10.jpg" class="cover">
-                                <div id="caption">RGB Game</div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-cover-container">
+                            <div class="uk-inline" uk-light>
+                                <img id="project" src="assets/images/weatherdash.png" alt="Weather Dashboard">
+                                <div class="uk-overlay uk-overlay-default uk-position-bottom">
+                                    <a id="capt1" href="https://svivoli.github.io/Weather-Dashboard/" target="_blank">
+                                        <p id="capt">WEATHER DASHBOARD</p>
+                                    </a>
+                                </div>
                             </div>
-                        </td>
-                        <td>
-                            <div class="group" id="container">
-                                <img src="assets/images/Trivia-Night.jpg" class="cover">
-                                <div id="caption">Trivia Game</div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-cover-container">
+                            <div class="uk-inline">
+                                <img id="project" src="assets/images/planner.png" alt="Daily Planner">
+                                <div class="uk-overlay uk-overlay-default uk-position-bottom">
+                                    <a id="capt1" href="https://svivoli.github.io/Daily-Planner/" target="_blank">
+                                        <p id="capt">DAILY PLANNER</p>
+                                    </a>
+                                </div>
                             </div>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <div class="group" id="container">
-                                <img src="assets/images/technics-q-c-640-480-7.jpg" class="cover">
-                                <div id="caption">Rutger's Info Widget</div>
-                            </div>                       
-                        </td>
-                        <td>
-                            <div class="group" id="container">
-                                 <img id="portfoliopix" src="assets/images/zfqhu451s6931.jpg" class="cover">
-                                <div id="caption">Rock Paper Scissors</div>
-                            </div>
-                        </td>
-                    </tr>
-                </table>
-                    
+                        </div>
+                    </div>
                 </div>
-                        
-            </div>
-            <div class="push"></div>
-        </div>     
-        
+
+        </div>
+    </div>
+
+    <div class="push"></div>
+
+
 
     <footer class="footer">
         Copyright ©
     </footer>
 
+    <script src="https://kit.fontawesome.com/25191fb013.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.4/dist/js/uikit.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.4/dist/js/uikit-icons.min.js"></script>
 </body>
 
 </html>
