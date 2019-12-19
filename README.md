@@ -42,7 +42,7 @@ The user is greeted by the home page which contains a short bio and an image ben
 
 The portfolio page contains project examples which are laid out on a grid. The examples are displayed as pictures of the sites with overlay labels that are linked to the projects. When clicked, the projects open in a new tab.
 
-![Contact Page](https://i.imgur.com/cT9M7q5.png)
+![Contact Page](https://i.imgur.com/AGP7Fq1.png)
 
 The contact page contains 3 cards within a grid. The first card has my email address and phone number. The second card has links to my LinkedIn profile and a view only Google doc of my resume. These links are in the form of FontAwesome icons, one being the LinkedIn logo, and one being a written document. The third card is a form where the user can submit their name, email address, and a message.
 
