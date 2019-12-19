@@ -147,6 +147,10 @@ p, #form-stacked-text, #senderMessage {
     font-family: 'Barlow', sans-serif;
 }
 
+textarea {
+    resize: none;
+}
+
 .footer,
 .push {
     height: 20px;
