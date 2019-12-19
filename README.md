@@ -34,7 +34,7 @@ Other Attributes:
 
 ### User Experience
 
-![Home Page](https://i.imgur.com/oITs3tX.jpg)
+![Home Page](https://i.imgur.com/YpP7RxF.jpg)
 
 The user is greeted by the home page which contains a short bio and an image beneath an "About Me" title. At the top is a navbar that contains my name on the left and links to navigate to the other pages on the right. All of the pages have a main white div containing the main content which is centered over the grey background.
 
@@ -42,7 +42,7 @@ The user is greeted by the home page which contains a short bio and an image ben
 
 The portfolio page contains project examples which are laid out on a grid. The examples are displayed as pictures of the sites with overlay labels that are linked to the projects. When clicked, the projects open in a new tab.
 
-![Contact Page](https://i.imgur.com/AGP7Fq1.png)
+![Contact Page](https://i.imgur.com/sxU5g4Z.png)
 
 The contact page contains 3 cards within a grid. The first card has my email address and phone number. The second card has links to my LinkedIn profile and a view only Google doc of my resume. These links are in the form of FontAwesome icons, one being the LinkedIn logo, and one being a written document. The third card is a form where the user can submit their name, email address, and a message.
 
