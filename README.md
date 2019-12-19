@@ -1,4 +1,4 @@
-# Portfolio1
+# Portfolio
 
 Hello and welcome to my very first major project which showcases my portfolio website.
 
