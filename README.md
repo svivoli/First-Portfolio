@@ -61,4 +61,4 @@ Changes made:
 * Changed colors and fonts
 * Made responsive
 
-- Sarah Vivoli
+--Sarah Vivoli
