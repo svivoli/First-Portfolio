@@ -44,7 +44,7 @@ The portfolio page contains project examples which are laid out on a grid. The e
 
 ![Contact Page](https://i.imgur.com/sxU5g4Z.png)
 
-The contact page contains 3 cards within a grid. The first card has my email address and phone number. The second card has links to my LinkedIn profile and a view only Google doc of my resume. These links are in the form of FontAwesome icons, one being the LinkedIn logo, and one being a written document. The third card is a form where the user can submit their name, email address, and a message.
+The contact page contains 5 cards within a grid. The first 4 cards have contact information including my email address and phone number. The last of the two have links to my LinkedIn profile and a view only Google doc of my resume. These links are in the form of FontAwesome icons, one being the LinkedIn logo, and one being a written document. The fifth card, a larger one below the 4,  is a form where the user can submit their name, email address, and a message.
 
 
 ### Developer Experience
