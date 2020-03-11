@@ -2,6 +2,11 @@
 
 Hello and welcome to my very first major project which showcases my portfolio website.
 
+## Links to Project
+
+[Live Link](https://svivoli.github.io/Portfolio1/)  
+[GitHub Reppsitory](https://github.com/svivoli/Portfolio1)
+
 ### Description
 
 The site features a home page and two additional pages which can be navigated to using the nav bar at the top of the page. The purpose of this site is to create a space to showcase my work and who I am as a developer and to make available a platform for employers, clients, fellow coders, and other viewers to contact me.
