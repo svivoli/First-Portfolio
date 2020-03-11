@@ -5,7 +5,7 @@ Hello and welcome to my very first major project which showcases my portfolio we
 ## Links to Project
 
 [Live Link](https://svivoli.github.io/Portfolio1/)  
-[GitHub Reppsitory](https://github.com/svivoli/Portfolio1)
+[GitHub Repository](https://github.com/svivoli/Portfolio1)
 
 ### Description
 
